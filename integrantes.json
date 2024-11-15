@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "dni": "12345678",
+    "email": "juan.perez@example.com"
+  },
+  {
+    "nombre": "María",
+    "apellido": "Gómez",
+    "dni": "87654321",
+    "email": "maria.gomez@example.com"
+  },
+  {
+    "nombre": "Ana",
+    "apellido": "López",
+    "dni": "55555555",
+    "email": "ana.martinez@example.com"
+  },
+  {
+    "nombre": "Cacho",
+    "apellido": "Castaña",
+    "dni": "001122334",
+    "email": "cacho.johnson@gmail.com"
+  }
+]
