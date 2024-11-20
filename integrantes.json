@@ -1,26 +1,20 @@
 [
   {
-    "nombre": "Juan",
-    "apellido": "Pérez",
-    "dni": "12345678",
-    "email": "juan.perez@example.com"
+    "nombre": "William",
+    "apellido": "Romero castro",
+    "dni": "95816681",
+    "email": "willyr1879@gmail.com"
   },
   {
-    "nombre": "María",
-    "apellido": "Gómez",
-    "dni": "87654321",
-    "email": "maria.gomez@example.com"
+    "nombre": "Roberto Carlos",
+    "apellido": "Barragan",
+    "dni": "43325619",
+    "email": "barragan7113@gmail.com"
   },
   {
-    "nombre": "Ana",
-    "apellido": "López",
-    "dni": "55555555",
-    "email": "ana.martinez@example.com"
-  },
-  {
-    "nombre": "Cacho",
-    "apellido": "Castaña",
-    "dni": "001122334",
-    "email": "cacho.johnson@gmail.com"
+    "nombre": "Lionel",
+    "apellido": "Almaida",
+    "dni": "31293041",
+    "email": "lalmaida@proton.me"
   }
 ]
